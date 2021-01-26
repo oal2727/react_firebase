@@ -211,13 +211,3 @@ const AddProducto = ()=>{
 export default AddProducto
 //Notes
 
-
-    //1.create reference for image
-    //2.put reference on input type file
-    //3. call the referente for event click
-
-
-    //falta : 
-    // 1. cancelar => clean campos
-    //2 . optimizacion de codigo en firebase?
-    //3 . arragler itembox
